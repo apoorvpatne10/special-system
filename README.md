@@ -6,4 +6,4 @@
 
 ## Run the game
 
-`python main.py`
+`python Game/main.py`
