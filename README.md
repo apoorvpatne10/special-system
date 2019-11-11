@@ -7,4 +7,5 @@
 ## Run the game
 
 `cd Game`
+
 `python main1.py`
